@@ -61,7 +61,7 @@ export default function Home() {
               </h3>
               <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
                 Freelancer providing services for programming and development
-                needs. Contact me down below and let&apos;s get started!
+                needs. Contact me down below and let&apos;s get started
               </p>
               <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
                 <a
