@@ -244,7 +244,7 @@ export default function Home() {
             you.
           </p>
         </section>
-        <footer className="text-center text-teal-500">
+        <footer className="text-center text-teal-500 pb-10">
           Copyrigth ©2023 All rights reserved | powered by stivin
         </footer>
       </main>
